@@ -1,0 +1,53 @@
+16:46:54.699 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Opening OS
+16:46:54.700 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Open the browser
+16:46:54.700 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Enter the URL 
+16:47:00.011 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Click on My Account Menu
+16:47:01.942 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Enter registered username in username textbox
+16:47:02.019 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Enter password in password textbox
+16:47:02.085 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Click on login button
+16:47:03.346 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Test pass
+16:47:03.360 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Opening OS
+16:47:03.360 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Open the browser
+16:47:03.360 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Enter the URL 
+17:00:26.308 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Opening OS
+17:00:26.310 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Open the browser
+17:00:26.310 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Enter the URL 
+17:00:32.639 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Click on My Account Menu
+17:00:34.002 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Enter registered username in username textbox
+17:00:34.074 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Enter password in password textbox
+17:00:34.107 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Click on login button
+17:00:36.226 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Test pass
+17:01:12.524 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Opening OS
+17:01:12.526 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Open the browser
+17:01:12.526 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Enter the URL 
+17:01:17.820 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Click on My Account Menu
+17:01:19.043 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Enter registered username in username textbox
+17:01:19.121 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Enter password in password textbox
+17:01:19.186 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Click on login button
+17:01:20.768 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Test pass
+17:01:21.596 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Opening OS
+17:01:21.596 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Open the browser
+17:01:21.596 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Enter the URL 
+17:01:26.073 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Click on My Account Menu
+17:01:27.637 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Enter registered username in username textbox
+17:01:27.773 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Enter password in password textbox
+17:01:27.815 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Click on login button
+17:01:29.755 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Test pass
+11:44:09.497 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Click on My Account Menu
+11:44:10.699 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Enter registered username in username textbox
+11:44:10.831 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Enter password in password textbox
+11:44:10.872 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Click on login button
+11:44:12.364 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Test pass
+11:44:16.312 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Click on My Account Menu
+11:44:17.771 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Enter registered username in username textbox
+11:44:17.861 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Enter password in password textbox
+11:44:17.955 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Click on login button
+11:44:19.318 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Test pass
+11:45:05.502 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Click on My Account Menu
+11:45:07.257 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Enter registered username in username textbox
+11:45:07.366 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Enter password in password textbox
+11:45:07.407 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Click on login button
+11:45:08.882 [main] INFO  testCases.TC_1_TestingLoginWithValidInputs - Test pass
+11:45:13.565 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Click on My Account Menu
+11:45:14.676 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Enter registered username in username textbox
+11:45:14.766 [main] INFO  testCases.TC_2_TestingLoginWithInvalidInputs - Enter password in password textbox
